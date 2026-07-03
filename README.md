@@ -1,3 +1,1 @@
-# Grundlagen der Anwendungsentwicklung A4
-
-Submitted by 108793
+# Grundlagen-der-Anwendungsentwicklung-A4-108793
